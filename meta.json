@@ -1,0 +1,40 @@
+{
+  "name": "Générateur de Titres SEO Automatique pour Articles",
+  "description": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des variantes SEO, clickbait, expertes, douces et commerciales en un instant.",
+  "theme": "calculator",
+  "design_theme": "museum-label",
+  "structure_preset": "editorial-rail",
+  "render_direction": "editorial-ledger",
+  "page_blueprint": "briefing-board",
+  "language": "fr",
+  "country": "FR",
+  "url": null,
+  "expected_url": "https://generateur-de-titres-seo-automatique-pour-articles-1.onrender.com",
+  "created": "2026-04-13T17:55:35.980444+00:00",
+  "owner_user_id": "user-1774822953462",
+  "owner_username": "admin",
+  "owner_display_name": "Administrator",
+  "status": "generated",
+  "run_id": "run-1776102908796",
+  "publish_target": "render",
+  "mode": "production",
+  "github": {
+    "status": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "qa": {
+    "status": "pending"
+  },
+  "features": [
+    "Hero pattern: editorial",
+    "Proof module: rail",
+    "Design theme: Museum Label",
+    "Render direction: Editorial Ledger",
+    "Page blueprint: Briefing Board",
+    "Runtime mode: seo_diagnostic",
+    "Generation mode: direct_html",
+    "Artifact rendered, awaiting QA and deployment"
+  ]
+}
