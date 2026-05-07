@@ -11,17 +11,17 @@
   "country": "FR",
   "url": null,
   "expected_url": "https://generateur-de-titres-seo-automatique-pour-articles-1.onrender.com",
-  "created": "2026-05-07T10:59:42.502976+00:00",
+  "created": "2026-05-07T11:14:00.438680+00:00",
   "owner_user_id": "user-1774822953462",
   "owner_username": "admin",
   "owner_display_name": "Administrator",
   "status": "generated",
-  "run_id": "run-1778151520229",
+  "run_id": "run-1778152367899",
   "publish_target": "render",
   "mode": "production",
   "source_type": "imported",
-  "import_source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
-  "import_root_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
+  "import_source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778152198723/generateur-de-titres-seo-automatique-pour-articles-1",
+  "import_root_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778152198723/generateur-de-titres-seo-automatique-pour-articles-1",
   "import_resolution_note": null,
   "analysis": {
     "model": "preserved-analysis",
@@ -64,6 +64,35 @@
         "summary": "A safer non-anchor URL block was applied near the bottom of the page with contextual copy.",
         "issues": []
       }
+    },
+    "content": {
+      "status": "ready",
+      "updated_at": "2026-05-07T11:12:29.198076+00:00",
+      "article_count": 1,
+      "anchor_article_count": 0,
+      "plain_url_article_count": 1,
+      "batch_anchor_article_count": 1,
+      "batch_plain_url_article_count": 4,
+      "total_batch_articles": 5,
+      "links": 1,
+      "anchor_keywords": [
+        "spinaura casino"
+      ],
+      "section_title": "Ressources complémentaires",
+      "pages": [
+        {
+          "slug": "generateur-de-titres-seo-automatique-pour-artic-c26546c8",
+          "path": "/var/lib/utility-site-studio/sites/generateur-de-titres-seo-automatique-pour-articles-1/insights/generateur-de-titres-seo-automatique-pour-artic-c26546c8.html",
+          "title": "Générateur de Titres SEO Automatique pour Articles — Guide 1",
+          "link_mode": "plain_url_text"
+        }
+      ],
+      "review": {
+        "status": "pass",
+        "score": 82,
+        "summary": "A safer fallback content bundle was applied with clean supporting pages and a restrained homepage knowledge section.",
+        "issues": []
+      }
     }
   },
   "ahrefs": {
@@ -104,7 +133,7 @@
       "status": "published",
       "repo_name": "generateur-de-titres-seo-automatique-pour-articles-1",
       "repo_url": "https://github.com/olivkovyi/generateur-de-titres-seo-automatique-pour-articles-1",
-      "updated_at": 1776102981
+      "updated_at": 1778151591
     },
     "deployment": {
       "status": "ready",
@@ -112,14 +141,14 @@
       "service_id": "srv-d7eitb7aqgkc73boaqjg",
       "project_name": "generateur-de-titres-seo-automatique-pour-articles-1",
       "requested_project_name": null,
-      "deployment_id": "dep-d7eitbfaqgkc73boar7g",
+      "deployment_id": "dep-d7u724hkh4rs738hus7g",
       "deployment_url": "https://generateur-de-titres-seo-automatique.onrender.com",
       "public_url": "https://generateur-de-titres-seo-automatique.onrender.com",
       "expected_public_url": "https://generateur-de-titres-seo-automatique.onrender.com",
       "dashboard_url": "https://dashboard.render.com/static/srv-d7eitb7aqgkc73boaqjg",
       "ready_state": "live",
       "target": "production",
-      "updated_at": 1776103085,
+      "updated_at": 1778151610,
       "requested_public_url": "https://generateur-de-titres-seo-automatique.onrender.com",
       "url_source": "alias"
     },
@@ -194,38 +223,38 @@
             "detail": "Editorial desktop layout avoids negative overlap offsets on the tool panel"
           }
         ],
-        "checked_at": 1778151502
+        "checked_at": 1778152349
       },
       "functional": {
         "status": "pass",
         "detail": "desktop: Le formulaire natif a mis a jour la zone de resultat. | mobile: Le formulaire natif a mis a jour la zone de resultat.",
-        "target_url": "http://127.0.0.1:45515/index.html?__qa=functional",
+        "target_url": "http://127.0.0.1:37385/index.html?__qa=functional",
         "mode": "native-form",
         "headline": "Vos Titres Générés",
         "primary_url": "",
         "desktop": {
           "status": "pass",
           "detail": "Le formulaire natif a mis a jour la zone de resultat.",
-          "target_url": "http://127.0.0.1:45515/index.html?__qa=functional",
+          "target_url": "http://127.0.0.1:37385/index.html?__qa=functional",
           "viewport": "desktop",
           "mode": "native-form",
           "headline": "Vos Titres Générés",
           "primary_url": "",
           "reported_viewport": "desktop",
-          "updated_at": 1778151503
+          "updated_at": 1778152350
         },
         "mobile": {
           "status": "pass",
           "detail": "Le formulaire natif a mis a jour la zone de resultat.",
-          "target_url": "http://127.0.0.1:45515/index.html?__qa=functional",
+          "target_url": "http://127.0.0.1:37385/index.html?__qa=functional",
           "viewport": "mobile",
           "mode": "native-form",
           "headline": "Vos Titres Générés",
           "primary_url": "",
           "reported_viewport": "mobile",
-          "updated_at": 1778151503
+          "updated_at": 1778152351
         },
-        "updated_at": 1778151504
+        "updated_at": 1778152351
       },
       "remote": {
         "status": "pass",
@@ -246,7 +275,7 @@
             "detail": "Remote HTML contains a body tag"
           }
         ],
-        "checked_at": 1778151504
+        "checked_at": 1778152351
       },
       "visual": {
         "status": "pass",
@@ -262,7 +291,7 @@
           "detail": "430x932 screenshot captured.",
           "relative_url": "/static/generated-qa/generateur-de-titres-seo-automatique-pour-articles-1/generateur-de-titres-seo-automatique-pour-articles-1-mobile.png"
         },
-        "updated_at": 1778151506
+        "updated_at": 1778152354
       },
       "lighthouse": {
         "status": "pass",
@@ -273,10 +302,10 @@
           "seo": 100
         },
         "report_path": "/var/lib/utility-site-studio/data/qa/lighthouse/generateur-de-titres-seo-automatique-pour-articles-1-lighthouse.json",
-        "updated_at": 1778151520
+        "updated_at": 1778152367
       },
       "qa_live_url": "https://generateur-de-titres-seo-automatique.onrender.com",
-      "updated_at": "2026-05-07T10:58:40.016399+00:00"
+      "updated_at": "2026-05-07T11:12:47.746165+00:00"
     }
   }
 }
