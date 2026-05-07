@@ -1,5 +1,5 @@
 {
-  "run_id": "run-1778151520229",
+  "run_id": "run-1778152367899",
   "job_index": 1,
   "params": {
     "owner_user_id": "user-1774822953462",
@@ -7,15 +7,15 @@
     "owner_display_name": "Administrator",
     "count": 1,
     "archetype": "calculator",
-    "market": "Growth republish",
+    "market": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des…",
     "language": "fr",
     "country": "FR",
     "brief": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des variantes SEO, clickbait, expertes, douces et commerciales en un instant.",
     "notes": "Growth module republish of an updated local artifact.",
     "import_notes": "Growth module republish of an updated local artifact.",
-    "growth_job_id": "growth-1778151447165",
+    "growth_job_id": "growth-1778152198723",
     "growth_slug": "generateur-de-titres-seo-automatique-pour-articles-1",
-    "growth_kind": "affiliate",
+    "growth_kind": "content",
     "dashboard_mode": "builder",
     "network_site_format": "forum",
     "network_primary_topic": "",
@@ -54,8 +54,8 @@
     "forced_slug": "generateur-de-titres-seo-automatique-pour-articles-1",
     "site_idea_title": "Générateur de Titres SEO Automatique pour Articles",
     "site_idea_summary": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des variantes SEO, clickbait, expertes, douces et commerciales en un instant.",
-    "import_source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
-    "import_root_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
+    "import_source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778152198723/generateur-de-titres-seo-automatique-pour-articles-1",
+    "import_root_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778152198723/generateur-de-titres-seo-automatique-pour-articles-1",
     "import_analysis_model": "preserved-analysis"
   },
   "import_analysis": {
@@ -66,7 +66,7 @@
     "archetype": "calculator",
     "language": "fr",
     "country": "FR",
-    "market": "Growth republish",
+    "market": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des…",
     "characteristics": [
       "imported static site",
       "ready file deploy",
@@ -74,6 +74,6 @@
     ],
     "suggested_slug": "generateur-de-titres-seo-automatique-pour-articles-1"
   },
-  "source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
-  "deploy_root": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1"
+  "source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778152198723/generateur-de-titres-seo-automatique-pour-articles-1",
+  "deploy_root": "/var/lib/utility-site-studio/data/growth-republish/growth-1778152198723/generateur-de-titres-seo-automatique-pour-articles-1"
 }
