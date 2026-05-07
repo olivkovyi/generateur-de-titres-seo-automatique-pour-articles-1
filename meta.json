@@ -1,23 +1,38 @@
 {
+  "slug": "generateur-de-titres-seo-automatique-pour-articles-1",
   "name": "Générateur de Titres SEO Automatique pour Articles",
   "description": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des variantes SEO, clickbait, expertes, douces et commerciales en un instant.",
   "theme": "calculator",
-  "design_theme": "museum-label",
-  "structure_preset": "editorial-rail",
-  "render_direction": "editorial-ledger",
-  "page_blueprint": "briefing-board",
+  "design_theme": "imported-source",
+  "structure_preset": "external-source",
+  "render_direction": "imported-source",
+  "page_blueprint": "imported-source",
   "language": "fr",
   "country": "FR",
   "url": null,
   "expected_url": "https://generateur-de-titres-seo-automatique-pour-articles-1.onrender.com",
-  "created": "2026-04-13T17:55:35.980444+00:00",
+  "created": "2026-05-07T10:59:42.502976+00:00",
   "owner_user_id": "user-1774822953462",
   "owner_username": "admin",
   "owner_display_name": "Administrator",
   "status": "generated",
-  "run_id": "run-1776102908796",
+  "run_id": "run-1778151520229",
   "publish_target": "render",
   "mode": "production",
+  "source_type": "imported",
+  "import_source_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
+  "import_root_path": "/var/lib/utility-site-studio/data/growth-republish/growth-1778151447165/generateur-de-titres-seo-automatique-pour-articles-1",
+  "import_resolution_note": null,
+  "analysis": {
+    "model": "preserved-analysis",
+    "summary": "Créez des titres percutants pour vos articles de blog ou pages web. Générez des variantes SEO, clickbait, expertes, douces et commerciales en un instant.",
+    "notes": "Growth module republish of an updated local artifact.",
+    "characteristics": [
+      "imported static site",
+      "ready file deploy",
+      "generator"
+    ]
+  },
   "github": {
     "status": "pending"
   },
@@ -28,13 +43,240 @@
     "status": "pending"
   },
   "features": [
-    "Hero pattern: editorial",
-    "Proof module: rail",
-    "Design theme: Museum Label",
-    "Render direction: Editorial Ledger",
-    "Page blueprint: Briefing Board",
-    "Runtime mode: seo_diagnostic",
-    "Generation mode: direct_html",
-    "Artifact rendered, awaiting QA and deployment"
-  ]
+    "Imported from ready static files",
+    "AI analysis model: preserved-analysis",
+    "imported static site",
+    "ready file deploy",
+    "generator"
+  ],
+  "growth": {
+    "affiliate": {
+      "status": "ready",
+      "updated_at": "2026-05-07T10:58:21.777652+00:00",
+      "modes": [
+        "plain_url_text"
+      ],
+      "links": 1,
+      "insertions": 1,
+      "review": {
+        "status": "pass",
+        "score": 84,
+        "summary": "A safer non-anchor URL block was applied near the bottom of the page with contextual copy.",
+        "issues": []
+      }
+    }
+  },
+  "ahrefs": {
+    "status": "ready",
+    "synced_at": "2026-04-29T13:25:54.216270+00:00",
+    "country": "FR",
+    "target_url": "https://generateur-de-titres-seo-automatique.onrender.com/",
+    "target_host": "generateur-de-titres-seo-automatique.onrender.com",
+    "current_live_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+    "domain_rating": 89.0,
+    "ahrefs_rank": 2041,
+    "backlinks": 87,
+    "refdomains": 83,
+    "org_traffic": 0,
+    "org_keywords": 0,
+    "org_keywords_1_3": 0,
+    "org_keywords_4_10": 0,
+    "org_keywords_11_20": 0,
+    "org_keywords_21_50": 0,
+    "org_keywords_51_plus": 0,
+    "top_country": null,
+    "top_country_traffic": null,
+    "detail": "Ahrefs metrics synced via Batch Analysis.",
+    "shared_host": true,
+    "metrics_scope": "shared-host",
+    "shared_host_provider": "Render",
+    "shared_host_note": "Сайт живёт на Render shared host (generateur-de-titres-seo-automatique.onrender.com). DR и Ahrefs Rank в таком режиме частично отражают силу хост-домена, поэтому смотри в первую очередь на keywords, ref domains, traffic и top pages.",
+    "opportunity_score": 24,
+    "opportunity_band": "warming-up",
+    "opportunity_label": "Warming up",
+    "opportunity_detail": "83 ref domains · shared-host: DR/AR смотри осторожно."
+  },
+  "previous_live_state": {
+    "url": "https://generateur-de-titres-seo-automatique.onrender.com",
+    "expected_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+    "requested_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+    "github": {
+      "status": "published",
+      "repo_name": "generateur-de-titres-seo-automatique-pour-articles-1",
+      "repo_url": "https://github.com/olivkovyi/generateur-de-titres-seo-automatique-pour-articles-1",
+      "updated_at": 1776102981
+    },
+    "deployment": {
+      "status": "ready",
+      "provider": "render",
+      "service_id": "srv-d7eitb7aqgkc73boaqjg",
+      "project_name": "generateur-de-titres-seo-automatique-pour-articles-1",
+      "requested_project_name": null,
+      "deployment_id": "dep-d7eitbfaqgkc73boar7g",
+      "deployment_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+      "public_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+      "expected_public_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+      "dashboard_url": "https://dashboard.render.com/static/srv-d7eitb7aqgkc73boaqjg",
+      "ready_state": "live",
+      "target": "production",
+      "updated_at": 1776103085,
+      "requested_public_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+      "url_source": "alias"
+    },
+    "qa": {
+      "status": "pass",
+      "local": {
+        "status": "pass",
+        "checks": [
+          {
+            "name": "index_exists",
+            "status": "pass",
+            "detail": "index.html exists"
+          },
+          {
+            "name": "meta_exists",
+            "status": "pass",
+            "detail": "meta.json exists"
+          },
+          {
+            "name": "robots_exists",
+            "status": "pass",
+            "detail": "robots.txt exists"
+          },
+          {
+            "name": "has_title",
+            "status": "pass",
+            "detail": "HTML contains a title tag"
+          },
+          {
+            "name": "has_viewport",
+            "status": "pass",
+            "detail": "HTML contains a mobile viewport meta tag"
+          },
+          {
+            "name": "has_canonical",
+            "status": "pass",
+            "detail": "HTML contains a canonical URL"
+          },
+          {
+            "name": "bundle_size",
+            "status": "pass",
+            "detail": "Generated HTML stays below 250KB"
+          },
+          {
+            "name": "functional_qa_hook",
+            "status": "pass",
+            "detail": "Generated HTML includes the browser QA hook used before deploy."
+          },
+          {
+            "name": "inline_script_syntax",
+            "status": "pass",
+            "detail": "Inline JavaScript syntax check passed."
+          },
+          {
+            "name": "robots_google_only",
+            "status": "pass",
+            "detail": "robots.txt allows only Google crawlers and blocks all other bots."
+          },
+          {
+            "name": "no_meta_noindex",
+            "status": "pass",
+            "detail": "Generated HTML does not inject a noindex robots meta tag."
+          },
+          {
+            "name": "no_internal_branding",
+            "status": "pass",
+            "detail": "Generated site does not leak internal platform branding or internal product naming."
+          },
+          {
+            "name": "desktop_layout_overlap",
+            "status": "pass",
+            "detail": "Editorial desktop layout avoids negative overlap offsets on the tool panel"
+          }
+        ],
+        "checked_at": 1778151502
+      },
+      "functional": {
+        "status": "pass",
+        "detail": "desktop: Le formulaire natif a mis a jour la zone de resultat. | mobile: Le formulaire natif a mis a jour la zone de resultat.",
+        "target_url": "http://127.0.0.1:45515/index.html?__qa=functional",
+        "mode": "native-form",
+        "headline": "Vos Titres Générés",
+        "primary_url": "",
+        "desktop": {
+          "status": "pass",
+          "detail": "Le formulaire natif a mis a jour la zone de resultat.",
+          "target_url": "http://127.0.0.1:45515/index.html?__qa=functional",
+          "viewport": "desktop",
+          "mode": "native-form",
+          "headline": "Vos Titres Générés",
+          "primary_url": "",
+          "reported_viewport": "desktop",
+          "updated_at": 1778151503
+        },
+        "mobile": {
+          "status": "pass",
+          "detail": "Le formulaire natif a mis a jour la zone de resultat.",
+          "target_url": "http://127.0.0.1:45515/index.html?__qa=functional",
+          "viewport": "mobile",
+          "mode": "native-form",
+          "headline": "Vos Titres Générés",
+          "primary_url": "",
+          "reported_viewport": "mobile",
+          "updated_at": 1778151503
+        },
+        "updated_at": 1778151504
+      },
+      "remote": {
+        "status": "pass",
+        "checks": [
+          {
+            "name": "remote_200",
+            "status": "pass",
+            "detail": "Remote deployment returned HTTP 200"
+          },
+          {
+            "name": "remote_title",
+            "status": "pass",
+            "detail": "Remote HTML contains a title tag"
+          },
+          {
+            "name": "remote_body",
+            "status": "pass",
+            "detail": "Remote HTML contains a body tag"
+          }
+        ],
+        "checked_at": 1778151504
+      },
+      "visual": {
+        "status": "pass",
+        "desktop": {
+          "status": "pass",
+          "path": "/var/lib/utility-site-studio/static/generated-qa/generateur-de-titres-seo-automatique-pour-articles-1/generateur-de-titres-seo-automatique-pour-articles-1-desktop.png",
+          "detail": "1440x960 screenshot captured.",
+          "relative_url": "/static/generated-qa/generateur-de-titres-seo-automatique-pour-articles-1/generateur-de-titres-seo-automatique-pour-articles-1-desktop.png"
+        },
+        "mobile": {
+          "status": "pass",
+          "path": "/var/lib/utility-site-studio/static/generated-qa/generateur-de-titres-seo-automatique-pour-articles-1/generateur-de-titres-seo-automatique-pour-articles-1-mobile.png",
+          "detail": "430x932 screenshot captured.",
+          "relative_url": "/static/generated-qa/generateur-de-titres-seo-automatique-pour-articles-1/generateur-de-titres-seo-automatique-pour-articles-1-mobile.png"
+        },
+        "updated_at": 1778151506
+      },
+      "lighthouse": {
+        "status": "pass",
+        "scores": {
+          "performance": 100,
+          "accessibility": 86,
+          "best-practices": 96,
+          "seo": 100
+        },
+        "report_path": "/var/lib/utility-site-studio/data/qa/lighthouse/generateur-de-titres-seo-automatique-pour-articles-1-lighthouse.json",
+        "updated_at": 1778151520
+      },
+      "qa_live_url": "https://generateur-de-titres-seo-automatique.onrender.com",
+      "updated_at": "2026-05-07T10:58:40.016399+00:00"
+    }
+  }
 }
