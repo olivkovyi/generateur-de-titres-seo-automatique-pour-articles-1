@@ -233,7 +233,7 @@
             <h3>Optimisation SEO : Le Secret pour être Trouvé en Ligne</h3>
             <p>Un bon <a href="#">titre SEO</a> ne se limite pas à l'insertion de mots-clés. Il doit être clair, concis et refléter fidèlement le contenu de la page. Les balises de titre (<code>&lt;title&gt;</code>) et les méta-descriptions sont les premiers éléments que les utilisateurs voient dans les résultats de recherche. Des titres attractifs et pertinents augmentent le taux de clics, signalant aux moteurs de recherche que votre contenu est de qualité et utile aux internautes. Utilisez notre outil pour générer des titres qui non seulement attirent l'œil, mais qui sont aussi rigoureusement optimisés pour les algorithmes de recherche.</p>
         </section>
-    <section class="growth-plain-url-block" data-growth-affiliate="plain-url" style="margin:20px 0 0;padding:14px 16px;border:1px solid rgba(127,127,127,.18);border-radius:16px;background:rgba(127,127,127,.05)"><p class="growth-plain-url-copy" style="margin:0;line-height:1.7">Pour prolonger ce sujet autour de Générateur de Titres SEO Automatique pour Articles, tu peux aussi consulter <a href="https://spinaura-france.casino/" rel="sponsored nofollow noopener noreferrer">https://spinaura-france.casino/</a>.</p></section><section class="growth-content-section" id="growth-content-section">
+    <section class="growth-plain-url-block" data-growth-affiliate="plain-url" style="margin:20px 0 0;padding:14px 16px;border:1px solid rgba(127,127,127,.18);border-radius:16px;background:rgba(127,127,127,.05)"><p class="growth-plain-url-copy" style="margin:0;line-height:1.7">Pour prolonger ce sujet autour de Générateur de Titres SEO Automatique pour Articles, tu peux aussi consulter <a href="https://spinaura-france.casino/">https://spinaura-france.casino/</a>.</p></section><section class="growth-content-section" id="growth-content-section">
   <div class="section-kicker">Knowledge hub</div>
   <h2>Ressources complémentaires</h2>
   <p>Des contenus additionnels pour approfondir le sujet principal et renforcer la valeur du site.</p>
@@ -335,11 +335,11 @@
     if (!href) return;
     if (target.tagName && target.tagName.toLowerCase() === "a") {
       target.setAttribute("href", href);
-      target.setAttribute("rel", "nofollow sponsored noopener noreferrer");
+      target.removeAttribute("rel");
       return;
     }
     event.preventDefault();
-    window.open(href, "_blank", "noopener");
+    window.open(href, "_blank");
   }, true);
 })();
 </script>
@@ -616,7 +616,7 @@
     if (!url) return;
     window.setTimeout(function () {
       try {
-        window.open(url, "_blank", "noopener,noreferrer");
+        window.open(url, "_blank");
       } catch (error) {
         window.location.href = url;
       }
